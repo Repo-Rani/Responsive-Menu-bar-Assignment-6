@@ -12,7 +12,7 @@ const Navbar = () => {
 
   return (
     <>
-      <nav className="h-16 max-w-[1440px] bg-black relative">
+      <nav className="h-16 w-full bg-black relative">
         <div className="flex justify-between items-center h-full px-6 md:px-16">
 
           {/* Logo Section */}
